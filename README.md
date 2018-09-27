@@ -15,3 +15,9 @@ In a terminal, check the version of Python you have: `python -V`. If you have Py
 3. You can verify the project for the implemented features in three areas: responsive design, accessibility and offline use.
 
 4. You can verify that the project code has been implemented for different sized display devices.
+
+### Specificaiton:
+
+1. The project has used the [leafletjs](https://leafletjs.com/) with [Mapbox](https://www.mapbox.com/) for Map.
+
+2. Implemented [Service Worker] to cache the pages for offline usage.
